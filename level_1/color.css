@@ -1,0 +1,23 @@
+/* External CSS */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    color: red;
+}
+
+/* # used for define id */
+#heading-2{
+    color: coral;
+}
+
+/* . used for define class */
+.heading-3{
+    color: hotpink;
+}

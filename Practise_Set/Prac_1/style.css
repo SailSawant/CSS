@@ -1,0 +1,19 @@
+#heading {
+    color: cyan;
+}
+/* this is my comment */
+
+#div_11{
+    color: red;
+}
+
+p{
+    color: bisque;
+}
+.special_h2{
+    color: yellowgreen;
+}
+
+#first, #second{
+    color: brown;
+}

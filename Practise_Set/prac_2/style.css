@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#bar{
+    background-color: aquamarine;
+    color: rgba(113, 18, 18, 0.8);
+    
+}
+main{
+    height: 500px;
+    background-color: blanchedalmond;
+
+}
+#product{
+    width: 200px;
+    height: 400px;
+    background-image: url(/assets/clothes.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}

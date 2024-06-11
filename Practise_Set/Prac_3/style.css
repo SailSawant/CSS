@@ -1,0 +1,25 @@
+/* Text Align */
+/* .box{
+    width: 100px;
+    height: 100px;
+} */
+#box1{
+    /* background-color: red; */
+    /* text-align: center; */
+    text-decoration: underline;
+}
+#box2{
+    /* background-color: green; */
+    /* text-align: left; */
+    text-decoration: overline;
+}
+#box3{
+    /* background-color: blue; */
+    /* text-align: right; */
+    text-decoration: line-through;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+}
+#link2{
+    text-decoration: none;
+}
